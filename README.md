@@ -5,8 +5,8 @@ robosws2019 1
 LEDで点字を表現するプログラムです．
 
 ### 動作環境
-| Raspberry Pi | Raspberry Pi Model 3B+ |
-| OS | Ubuntu18.04 |
+*Raspberry Pi Model 3B+
+*Ubuntu18.04
 
 ### 実行方法
 ```
