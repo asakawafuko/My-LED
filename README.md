@@ -16,11 +16,13 @@ $ cd myled
 $ make
 $ sudo insmod myled.ko
 $ sudo chmod 666 /dev/myled0
-$ sudo echo 1 > /dev/myled0
 $ sudo echo 2 > /dev/myled0
-$ sudo echo 0 > /dev/myled0
-$ sudo echo 2 > /dev/myled0
-$ sudo echo 1 > /dev/myled0
+$ sudo echo 3 > /dev/myled0
+$ sudo echo 4 > /dev/myled0
+$ sudo echo 5 > /dev/myled0
+$ sudo echo 6 > /dev/myled0
+$ sudo echo 7 > /dev/myled0
+$ sudo echo 8 > /dev/myled0
 $ sudo echo 0 > /dev/myled0
 $ sudo rmmod myled.ko
 ```
