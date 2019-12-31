@@ -11,7 +11,7 @@ LEDで点字を表現するプログラムです．
 
 ## 実行方法
 ```
-$ git clone https://github.com/todasayaka/myled.git
+$ git clone https://github.com/asakawafuko/My-LED.git
 $ cd myled
 $ make
 $ sudo insmod myled.ko
