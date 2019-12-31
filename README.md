@@ -1,14 +1,15 @@
 # My-LED
 robosws2019 1
 
-### 概要
+## 概要
 LEDで点字を表現するプログラムです．
 
-### 動作環境
-*Raspberry Pi Model 3B+
-*Ubuntu18.04
+## 動作環境
 
-### 実行方法
+* Raspberry Pi Model 3B+
+* Ubuntu18.04
+
+## 実行方法
 ```
 $ git clone https://github.com/todasayaka/myled.git
 $ cd myled
